@@ -60,7 +60,8 @@ return {
         "Makefile",
         "package.json",
         ".solution",
-        ".solution.toml"
+        ".solution.toml",
+        "pyproject.toml"
       },
       -- Don't list the next projects
       exclude_dirs = {
